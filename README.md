@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning **Python, JS, C#**
 
-- 📄 Know about my experiences [Nothin .-.](Nothin .-.)
+- 📄 Know about my experiences: Nothin .-.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
