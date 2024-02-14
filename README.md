@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hiro</h1>
-<h3 align="center">A guy who enjoys engaging in gaming</h3>
+<h1  align="left">Hi 👋, I'm Hiro</h1>
+<h3 align="left">A guy who enjoys engaging in gaming</h3>
 
 - 🌱 I’m currently learning **Python, JS, C#**
 
