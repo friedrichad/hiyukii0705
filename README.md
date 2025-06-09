@@ -1,7 +1,7 @@
 <h1  align="left">Hi 👋, I'm Hiro</h1>
 <h3 align="left">A guy who enjoys engaging in gaming</h3>
 
-- 🌱 I’m currently learning **Python, JS, C#**
+- 🌱 I’m currently learning **Python, Java, C#**
 
 - 📄 Know about my experiences: Nothin .-.
 
